@@ -1,4 +1,4 @@
-package com.book.dan.criminalintent;
+package com.book.dan.draganddraw;
 
 
 import android.os.Bundle;
